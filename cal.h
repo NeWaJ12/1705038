@@ -1,5 +1,5 @@
-#ifndef CAL
-#define CAl
+#ifndef cal
+#define cal
 
 void push(double f);
 double pop(void);
